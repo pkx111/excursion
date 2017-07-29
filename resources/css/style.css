@@ -1,25 +1,24 @@
-body{
+body {
   background-color: black;
   text-align: center;
 
 }
-h1,h2,h3,h4,p{
+h1,h2,h3,h4,p {
   font-family: Verdana;
 
 }
-h1{
+h1 {
   font-weight: normal;
   font-size: 50px;
-  text-align: center;
   color: white;
 
 }
-h2{
+h2 {
   font-size: 42px;
   font-weight: 300;
 
 }
-p{
+p {
   color: gray;
   font-size: 21px;
 
@@ -29,7 +28,7 @@ p{
   font-size: 16px;
 
 }
-.footer{
+.footer {
   text-align: right;
   color: gray;
 
